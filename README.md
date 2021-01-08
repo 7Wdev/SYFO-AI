@@ -52,6 +52,9 @@ X1 = 0.7320508075688772, X2 = -2.732050807568877
 
 This code is free to use I coded it for educational and experemintal uses only, I was challenging myself to make a bot that can solve quadric equations without using complicated algorithms or libs...
 
+![](SYFO/syfo-art.png)
+
+
 #### Info
 Name: SYFO-AI
 
