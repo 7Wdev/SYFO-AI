@@ -236,4 +236,4 @@ function Trinom()
  */
 
 var
-BOB = [];
+BOB = ["not-obfuscated"];
