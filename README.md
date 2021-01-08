@@ -50,16 +50,23 @@ Now we know the N1 and N2:
 X1 = 0.7320508075688772, X2 = -2.732050807568877
 ```
 
-This code is free to use I coded it for educational and experemintal uses only!
-I was challenging myself to make a bot that can solve quadric equations without using complicated algorithms or libs...
+This code is free to use I coded it for educational and experemintal uses only, I was challenging myself to make a bot that can solve quadric equations without using complicated algorithms or libs...
 
 #### Info
 Name: SYFO-AI
+
 Type: Bot
+
 Author: 7Wdev
+
 Version: 0.2.0-alpha
+
 All copyrights are reserved!
+
 Feel free to edit the code, feel free to contribute...
+
 Desctription: Basic AI that can solve squared(quadric) equations...
+
 Known issues: this bot does not understand Roots, Fractions, the Quadric Formula(law), Can not arrange the equation etc...
+
 This AI uses Trinom(law) to solve the equations!
